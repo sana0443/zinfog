@@ -1,0 +1,40 @@
+.loginpage {
+    background-image: url('../Components/img/bg-img.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 100%;
+}
+
+.login-card{
+    height: 650px;
+    width: 600px;
+}
+.login-card h5{
+    color: #1c6ab7;
+    margin-top: 30px;
+}
+
+.inner-card{
+    height: 350px;
+    width: 400px;
+    background-color: rgb(99, 202, 243);
+    margin-left: 10%;
+    margin-top: 20px;
+}
+
+.inner-card input{
+    outline: none;
+    border: none;
+    margin-top: 10px;
+}
+
+.text-start{
+    margin-top: 20px;
+}
+
+.login-card h6{
+    color: #1c6ab7;
+    margin-top: 30px;
+}
